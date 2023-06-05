@@ -1,8 +1,4 @@
 
-
-**ArthurRochaGarcia/ArthurRochaGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-  
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/arthur-rocha-garcia-11ba5523b/">Arthur Rocha </a>
