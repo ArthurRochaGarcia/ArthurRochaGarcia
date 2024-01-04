@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    - 🌱 I’m currently studying computer science at the Vila Velha University 1/8
+    - 🌱 I’m currently studying computer science at the Vila Velha University 3/8
   </p>
   <p align="center">
     - 🔭 fascinated by knowledge
